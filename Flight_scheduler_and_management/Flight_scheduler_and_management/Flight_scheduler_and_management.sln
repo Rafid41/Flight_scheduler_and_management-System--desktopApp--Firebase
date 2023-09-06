@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight_scheduler_and_management", "Airline_Management\Flight_scheduler_and_management.csproj", "{DA6BF7DF-778B-429F-B766-9017A5A5B41D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Flight_setup", "..\Flight_setup\Flight_setup.vdproj", "{746C92D4-66E7-4353-8707-2E1470F725C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6BF7DF-778B-429F-B766-9017A5A5B41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6BF7DF-778B-429F-B766-9017A5A5B41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6BF7DF-778B-429F-B766-9017A5A5B41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6BF7DF-778B-429F-B766-9017A5A5B41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746C92D4-66E7-4353-8707-2E1470F725C8}.Debug|Any CPU.ActiveCfg = Debug
+		{746C92D4-66E7-4353-8707-2E1470F725C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319DF9A9-8C7C-4D8F-9C79-35F76952B849}
+	EndGlobalSection
+EndGlobal
